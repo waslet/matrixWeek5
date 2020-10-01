@@ -1,0 +1,9 @@
+09/30/2020 22:33:34 INFO     INFO: Program start
+09/30/2020 22:33:34 INFO     INFO: Entering wahoovian function
+09/30/2020 22:33:34 INFO     INFO: Exiting wahoovian function
+09/30/2020 22:33:34 INFO     INFO: Entering wahoovian function
+09/30/2020 22:33:34 INFO     WARNING: Input matrix is not square
+09/30/2020 22:33:34 INFO     INFO: Exiting wahoovian function
+09/30/2020 22:33:34 INFO     INFO: Entering wahoovian function
+09/30/2020 22:33:34 INFO     INFO: Exiting wahoovian function
+09/30/2020 22:33:34 INFO     INFO: Program end
